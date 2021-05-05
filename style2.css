@@ -1,0 +1,11 @@
+.clickable {
+	width:180px;
+	height:180px;
+	border:1px solid grey;
+}
+
+.clickable img{
+	width:100px;
+	height:100px;
+	object-fit: cover;
+}
